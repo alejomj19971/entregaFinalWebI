@@ -1,0 +1,13 @@
+
+.containerboxes{
+  
+    display: flex;
+    justify-content:center;
+    
+}
+.tarjeta{
+
+width: max-content;
+margin: 1em;
+
+}

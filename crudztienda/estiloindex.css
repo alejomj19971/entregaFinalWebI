@@ -1,0 +1,53 @@
+.imgemail{
+    background-image: url(img1/envelope-solid.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    border-color: antiquewhite;
+    border-radius:5px;
+    width: 300px;
+}
+
+.imgpassword{
+    background-image: url(img1/key-solid.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    border-color: antiquewhite;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.containerForm{
+    display:flex;
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: bold;
+    
+  
+}
+body{
+    text-align: center;
+  background-image: url(img1/img10.jpg);
+  background-size: cover;
+}
+h1 h3{
+    color: rgb(251, 251, 251);
+    font-weight: bold;
+
+}
+
+.botonlog{
+    width: 200px;
+    border-radius: 10px;
+    border-color: rgb(71, 102, 241);
+    border:solid;
+   
+}
+.colorform{
+    background-color: rgb(8, 51, 246,0.5);
+}
+
+.botonlog:hover{
+    background-color:rgb(8, 51, 246,0.5) ;
+}
